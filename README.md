@@ -3,6 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&size=35&duration=2000&pause=500&background=FF421100&center=true&vCenter=true&width=900%&height=30&lines=Hi%2C+I'm+Gustavo.;Welcome+to+my+profile+:%29)
 ##
 
+**<p>ABOUT ME:</p>**
+
 - 👀 I’m interested in a career in the technology field.
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me: gustavo.colpaertt@gmail.com
