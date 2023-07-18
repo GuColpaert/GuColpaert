@@ -1,6 +1,6 @@
 <img alt="cabecalho" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&size=35&duration=2000&pause=500&background=FF421100&center=true&vCenter=true&width=900%&height=80&lines=Hi%2C+I'm+Gustavo.;Welcome+to+my+profile+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&size=35&duration=2000&pause=500&background=FF421100&center=true&vCenter=true&width=900%&height=30&lines=Hi%2C+I'm+Gustavo.;Welcome+to+my+profile+:%29)
 ##
 
 - 👀 I’m interested in a career in the technology field.
