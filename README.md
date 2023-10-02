@@ -13,10 +13,11 @@
 
 <!-- GitStatus -->
 <div align = center style="disply: flex"> 
-  <img alt="quadro de stars" height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api?username=GuColpaert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" alt="quadro de estatus" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuColpaert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 <!-- Quadro de linguagens mais usadas -->
-  <img height="180em" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuColpaert&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img loading="lazy" height="180em" alt="quadro de linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuColpaert&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 ## Contact
 
